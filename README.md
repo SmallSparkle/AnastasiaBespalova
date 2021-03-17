@@ -1,7 +1,8 @@
 # Software Engineer in Test
 #### Details
-Email: a.kortikova@gmail.com     Phone: +4367762885424
-[Linkedin](https://www.linkedin.com/in/anastasija-bespalova-a6221481/)                     [Git](https://github.com/SmallSparkle)
+Email: a.kortikova@gmail.com | Phone: +4367762885424
+
+[Linkedin](https://www.linkedin.com/in/anastasija-bespalova-a6221481/) | [Git](https://github.com/SmallSparkle)
 
 ### Profile
 ____________________________________________________________________
