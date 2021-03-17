@@ -1,4 +1,4 @@
-## Анастасия Беспалова
+![Img](ava.jpg)## Анастасия Беспалова
 # software engineer in test
 
 ### Profile
