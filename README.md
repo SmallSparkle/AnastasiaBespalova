@@ -1,9 +1,4 @@
 # Software Engineer in Test
-#### Details
-Email: a.kortikova@gmail.com | Phone: +4367762885424
-
-[Linkedin](https://www.linkedin.com/in/anastasija-bespalova-a6221481/) | [Git](https://github.com/SmallSparkle)
-
 ### Profile
 ____________________________________________________________________
 5 лет опыта в обеспечении качества в роли Manual QA и Тест Аналитика. Активно развиваюсь в области автоматизированного тестирования - прохожу курсы Java Automation Engineer.
