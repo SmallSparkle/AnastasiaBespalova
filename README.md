@@ -6,7 +6,8 @@ ____________________________________________________________________
 
 ### Skills
 ____________________________________________________________________
-![Img](testing.jpg) ![Img](java.jpg) ![Img](selenium.jpg) ![Img](selenide.jpg)
+![Img](testing.jpg)  ![Img](java.jpg)  ![Img](selenium.jpg)  ![Img](selenide.jpg) ![Img](junit5.jpg)
+![Img](github.jpg) ![Img](jenkins.jpg) ![Img](docker.jpg) ![Img](Allure.jpg) ![Img]()
 
 ### Employment History
 ____________________________________________________________________
