@@ -5,8 +5,8 @@ ____________________________________________________________________
 
 ### Skills
 ____________________________________________________________________
-![Img](testing.jpg)  ![Img](java.jpg)  ![Img](selenium.jpg)  ![Img](selenide.jpg) ![Img](junit5.jpg)
-![Img](github.jpg) ![Img](jenkins.jpg) ![Img](docker.jpg) ![Img](Allure.jpg) ![Img](jira.jpg)
+![Img](docs/testing.jpg)  ![Img](docs/java.jpg)  ![Img](docs/selenium.jpg)  ![Img](docs/selenide.jpg) ![Img](docs/junit5.jpg)
+![Img](docs/github.jpg) ![Img](docs/jenkins.jpg) ![Img](docs/docker.jpg) ![Img](docs/Allure.jpg) ![Img](docs/jira.jpg)
 
 ### Employment History
 ____________________________________________________________________
