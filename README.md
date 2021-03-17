@@ -1,4 +1,7 @@
 # Software Engineer in Test
+#### Details
+Email: a.kortikova@gmail.com     Phone: +4367762885424
+[Linkedin](https://www.linkedin.com/in/anastasija-bespalova-a6221481/)                     [Git](https://github.com/SmallSparkle)
 
 ### Profile
 ____________________________________________________________________
@@ -7,7 +10,7 @@ ____________________________________________________________________
 ### Skills
 ____________________________________________________________________
 ![Img](testing.jpg)  ![Img](java.jpg)  ![Img](selenium.jpg)  ![Img](selenide.jpg) ![Img](junit5.jpg)
-![Img](github.jpg) ![Img](jenkins.jpg) ![Img](docker.jpg) ![Img](Allure.jpg) ![Img](sql.jpg)
+![Img](github.jpg) ![Img](jenkins.jpg) ![Img](docker.jpg) ![Img](Allure.jpg) ![Img](sql.png)
 
 ### Employment History
 ____________________________________________________________________
