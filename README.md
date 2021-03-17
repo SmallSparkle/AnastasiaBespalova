@@ -1,8 +1,8 @@
 # Software Engineer in Test
 
-[####Github](https://github.com/SmallSparkle/)
+#### [Github](https://github.com/SmallSparkle/)
 
-[####Linkedin](https://www.linkedin.com/in/anastasija-bespalova-a6221481/)
+#### [Linkedin](https://www.linkedin.com/in/anastasija-bespalova-a6221481/)
 
 ### Profile
 ____________________________________________________________________
