@@ -4,17 +4,16 @@
 
 ##### [Linkedin](https://www.linkedin.com/in/anastasija-bespalova-a6221481/)
 
-### Profile
+## Profile
 ____________________________________________________________________
 5 лет опыта в обеспечении качества в роли Manual QA и Тест Аналитика. Активно развиваюсь в области автоматизированного тестирования - прохожу курсы Java Automation Engineer.
-Умею выстраивать процесс тестирования, разрабатывать тестовую документацию. Учусть разрабатывать тестовые фреймворки, настраивать CI.
-
-### Skills
+Умею выстраивать процесс тестирования.
+## Skills
 ____________________________________________________________________
 ![Img](docs/testing.jpg)  ![Img](docs/java.jpg)  ![Img](docs/selenium.jpg)  ![Img](docs/selenide.jpg) ![Img](docs/junit5.jpg)
 ![Img](docs/github.jpg) ![Img](docs/jenkins.jpg) ![Img](docs/docker.jpg) ![Img](docs/Allure.jpg) ![Img](docs/jira.jpg)
 
-### Employment History
+## Employment History
 ____________________________________________________________________
 **QA Engineer, Self-emploed**                         Россия, Москва
 
