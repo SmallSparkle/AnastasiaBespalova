@@ -1,13 +1,14 @@
-# Software Engineer in Test
+# Quality Assurance Engineer 
 
 ##### [Github](https://github.com/SmallSparkle/)
 
-##### [Linkedin](https://www.linkedin.com/in/anastasija-bespalova-a6221481/)
+##### [Linkedin](https://www.linkedin.com/in/anastasiia-bespalova-a6221481/?locale=en_US)
 
 ## Profile
 ____________________________________________________________________
-5 лет опыта в обеспечении качества в роли Manual QA и Тест Аналитика. Активно развиваюсь в области автоматизированного тестирования - прохожу курсы Java Automation Engineer.
-Умею выстраивать процесс тестирования.
+An experienced quality assurance engineer with the main specialization as a full-stack QA.
+I know how to establish QA processes and think about the needs of the business, able to start automatization from 0, and have a passion for quality.
+
 ## Skills
 ____________________________________________________________________
 ![Img](docs/testing.jpg)  ![Img](docs/java.jpg)  ![Img](docs/selenium.jpg)  ![Img](docs/selenide.jpg) ![Img](docs/junit5.jpg)
